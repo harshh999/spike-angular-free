@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">
    <a href="https://github.com/harshh999/spike-angular-admin" target="_blank">
-       Spike Angular Admin (Customized)
+       Spike Angular Admin 
    </a>
 </h1>
 <p align="center">A chill customized Angular admin dashboard I'm messing with 😎</p>
