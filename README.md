@@ -14,11 +14,6 @@
 
 ---
 
-## 👋 Intro
-
-Hey! I'm Harsh, and this is a tweaked version of the **Spike Free Angular Admin Template** from WrapPixel. I cloned it, messed with the UI, and added my own touch to learn Angular Material and make something dashboard-ish.
-
-
 ## 🚀 Features (the cool stuff)
 
 - Angular + Angular Material
